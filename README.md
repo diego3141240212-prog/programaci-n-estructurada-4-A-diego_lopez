@@ -1,1 +1,1 @@
-Diego Lopez Delgado 4-A programacion estructurada
+Diego Lopez Delgado 4-A programacion orientado a objetos
